@@ -292,3 +292,5 @@ Elle a été réécrite à partir de zéro laquelle était l'ancienne extension 
 L'extension change de nom à Utilitaires pour les extensions de NVDA mais il continue de maintenir le nom interne dans lequel NVDA le gère en (addonPackager).
 
 En lançant cette version, l'extension cricricri sera sans maintenance, car cette extension comprend déjà le changement de manifestes.
+
+[1]: https://github.com/ruifontes/addonsTools/releases/download/2025.06.11/addonsTools-2025.06.11.nvda-addon

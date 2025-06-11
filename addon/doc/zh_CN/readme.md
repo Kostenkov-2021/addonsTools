@@ -54,4 +54,4 @@
 可用的两个功能是显示插件工具主窗口和当 NVDA 无响应时关闭。
 两者都没有默认快捷键。您可在“按键与手势”对话框的“插件工具”部分进行设置。
 
-[1]: https://github.com/ruifontes/addonsTools/releases/download/2024.03.25/addonsTools-2024.03.25.nvda-addon
+[1]: https://github.com/ruifontes/addonsTools/releases/download/2025.06.11/addonsTools-2025.06.11.nvda-addon
