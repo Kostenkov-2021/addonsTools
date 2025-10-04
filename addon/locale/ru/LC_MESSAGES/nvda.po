@@ -3,16 +3,17 @@ msgstr ""
 "Project-Id-Version: addonsTools\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
 "POT-Creation-Date: 2025-06-29 18:47+0500\n"
-"PO-Revision-Date: 2025-06-29 18:48+0500\n"
+"PO-Revision-Date: 2025-10-04 13:17+0300\n"
 "Last-Translator: \n"
-"Language-Team: Danil Kostenkov <danilkostenkov38@gmail.com>\n"
+"Language-Team: Russian translation team <nvda.ru>, Danil Kostenkov "
+"<danilkostenkov38@gmail.com>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
 "X-Poedit-Basepath: ../../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -25,17 +26,17 @@ msgstr "&Утилиты для дополнений"
 
 #: addon/globalPlugins/addonsTools/__init__.py:59
 msgid "An action is pending a NVDA restart."
-msgstr "Действие ожидает перезапуска NVDA."
+msgstr "Действие ожидает перезагрузки NVDA."
 
 #: addon/globalPlugins/addonsTools/__init__.py:60
 msgid "By security reasons, the add-on only can be used after restarting NVDA"
 msgstr ""
 "По соображениям безопасности это дополнение можно использовать только после "
-"перезапуска NVDA"
+"перезагрузки NVDA"
 
 #: addon/globalPlugins/addonsTools/__init__.py:61
 msgid "Do you want to restart NVDA now?"
-msgstr "Вы хотите перезапустить NVDA прямо сейчас?"
+msgstr "Хотите перезапустить NVDA сейчас?"
 
 #: addon/globalPlugins/addonsTools/__init__.py:62
 msgid "Question"
@@ -82,7 +83,7 @@ msgstr "Список &дополнений:"
 #: addon/globalPlugins/addonsTools/main.py:67
 #: addon/globalPlugins/addonsTools/main.py:90
 msgid "&Selection"
-msgstr "&Выбор"
+msgstr "&Выбрать"
 
 #: addon/globalPlugins/addonsTools/main.py:70
 msgid "&Generate"
@@ -309,7 +310,7 @@ msgstr "Установка успешно завершена."
 #: addon/globalPlugins/addonsTools/utilities.py:568
 #: addon/globalPlugins/addonsTools/utilities.py:583
 msgid "NVDA needs to restart to make changes available."
-msgstr "NVDA необходимо перезапустить, чтобы изменения вступили в силу."
+msgstr "Чтобы изменения вступили в силу, Необходимо перезагрузить NVDA."
 
 #: addon/globalPlugins/addonsTools/utilities.py:221
 #: addon/globalPlugins/addonsTools/utilities.py:242
@@ -568,7 +569,7 @@ msgstr "Предупреждение!"
 
 #: buildVars.py:23
 msgid "Tools for managing add-ons"
-msgstr "Утилиты для управления дополнениями"
+msgstr "Tools for managing add-ons (Утилиты для управления дополнениями)"
 
 #: buildVars.py:26
 msgid ""
